@@ -5,6 +5,10 @@ Application uses Python, Phue and TK modules.
 
 Currently still in development changes for the future are listed below, if you would like anything added please request and I will look into it.
 
-Future Changes:
-UI fixes to make the application more visually pleasing
-IP will be remembered from last use
+## Built With
+
+* [Phue](https://github.com/studioimaginaire/phue) - Hue API for python
+
+## Authors
+
+* **George Rose** - [Barophobia](https://github.com/Barophobia)
